@@ -10,7 +10,7 @@
 - [Repository](https://github.com/bpprStudy/AlgorithmStudy)
 - [Notion](https://www.notion.so/4c3cba77339e4de0b06a7e24db44c5c8)
 
-### CS (23.09)
+### CS (23.09, 23.11)
 - [Notion](https://www.notion.so/e7ed41b8cc434c5687fdf86a430b8bd9?v=8ff70fcf764a45a3b983383535b0c5cf)
 
 ### Java & Spring (23.10)
